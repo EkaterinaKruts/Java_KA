@@ -2,6 +2,6 @@ public class PhraseOMatic {
   public static void main (String[] args) {
     String[] wordListOne = {"24/7", "multi-Tier", "30,000 foot", "B-to-B", "win-win", "front-end", "web-based", "pervasive", "smart", "six-sigma", "critical-path", "dynamic"};
     String[] wordListTwo = {"empowered", "sticky", "value-added", "oriented", "centric", "distributed", "clustered", "branded", "outside-the-box", "positioned", "networked", "focused", "leveraged", "aligned", "targeted", "shared", "cooperative", "accelerated"};
-    String[] wordListThree = {"process", "tipping-point", "solution", "architecture"}
+    String[] wordListThree = {"process", "tipping-point", "solution", "architecture", "core competancy", "strategy", "mindshare", "portal", "space", "vision", "paradigm", "mission"};
   }
 }
